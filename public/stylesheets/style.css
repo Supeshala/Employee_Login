@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font-family: arial;
+}
+
+a {
+  color: #00B7FF;
+}
+
+ul.success li, ul.info li, ul.error li{
+	margin: 20px 0 20px 0;
+	padding: 15px;
+	border: 1px solid transparent;
+	list-style: none;
+}
+
+ul.success li{
+	color: #3c763d;
+	background: #dff0f8;
+	border-color: #d6e9c6;
+}
+
+ul.info li{
+	color: #183303;
+	background: #9FE36A;
+	border-color: #4F6B3A;
+}
+
+ul.error li{
+	color: #290F08;
+	background:#F2B1A1 ;
+	border-color: #672011;
+}
