@@ -11,7 +11,9 @@ and navigate to `http://localhost:3000/` then the app will automatically reload.
 In order to run the project, you need to download and install,
 
 ``
-Nodejs',
+Nodejs
+``
+``
 MongoDB
 ``
 ## Built With
