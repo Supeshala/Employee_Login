@@ -5,9 +5,11 @@ This is a simple login and logout module. This can be used for any project's log
 You simply need to download this project and then start command line or if you are using git, open git bash by right clicking on the folder. If you are using command line change the directory to your current directory. Then run
 
 `npm start`
+and navigate to `http://localhost:3000/` then the app will automatically reload.
 
 ### Prerequisites
 In order to run the project, you need to download and install,
+
 ``
 Nodejs
 MongoDB
